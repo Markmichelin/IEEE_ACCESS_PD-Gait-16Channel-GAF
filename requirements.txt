@@ -1,0 +1,11 @@
+numpy==1.23.5
+pandas==2.3.3
+torch==2.1.0
+torchvision
+timm==1.0.12
+pyts
+scikit-learn
+scipy
+statsmodels
+matplotlib
+tqdm
